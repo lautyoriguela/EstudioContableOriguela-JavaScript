@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "tipo": "Servicio",
+    "nombre": "Contabilidad de Empresas",
+    "precio": 1500,
+    "foto": "../media/services/empresas.png"
+}, {
+    "id": 2,
+    "tipo": "Servicio",
+    "nombre": "Asesoramiento Impositivo",
+    "precio": 1400,
+    "foto": "../media/services/impositivo.png"
+}, {
+    "id": 3,
+    "tipo": "Servicio",
+    "nombre": "Atención de Inspecciones",
+    "precio": 1300,
+    "foto": "../media/services/inspeccion.png"
+}, {
+    "id": 4,
+    "tipo": "Servicio",
+    "nombre": "Monotributistas",
+    "precio": 1200,
+    "foto": "../media/services/monotributistas.png"
+}, {
+    "id": 5,
+    "tipo": "Servicio",
+    "nombre": "Pymes Societarias",
+    "precio": 1100,
+    "foto": "../media/services/pymes.png"
+}, {
+    "id": 6,
+    "tipo": "Servicio",
+    "nombre": "Responsables Inscriptos",
+    "precio": 1000,
+    "foto": "../media/services/responsableInscripto.png"
+}]

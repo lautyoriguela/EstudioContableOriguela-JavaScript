@@ -1,0 +1,15 @@
+body{
+    background-color: #dedede;
+
+    .carrusel-index {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+        .carousel-item{
+            img{
+                width: 20em;
+            }
+        }
+    }
+
+}
